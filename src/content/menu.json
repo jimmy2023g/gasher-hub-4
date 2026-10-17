@@ -1,0 +1,16 @@
+[
+  { "title": "Games Portal", "desc": "Classic web arcade games collection", "page": "games", "icon": "fa-gamepad", "color": "#00f7ff", "category": "games", "badge": "Popular" },
+  { "title": "Top Popular", "desc": "Most played community favorites", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/popular-gameseeewf", "icon": "fa-fire-flame-curved", "color": "#ff5252", "category": "games", "badge": "Trending" },
+  { "title": "AI Games", "desc": "Next-gen AI generated mini-games", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/ai-games", "icon": "fa-robot", "color": "#b388ff", "category": "games", "badge": "v5.0 Ready" },
+  { "title": "Online Arena", "desc": "Multiplayer games with friends", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/online-games", "icon": "fa-vr-cardboard", "color": "#ffab40", "category": "games" },
+  { "title": "Movie Section", "desc": "Stream movies and shows together", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/movie-section", "icon": "fa-clapperboard", "color": "#ff4081", "category": "media" },
+  { "title": "Soundboard", "desc": "Sound effects, clips & sound bytes", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/soundboard", "icon": "fa-sliders", "color": "#ea80fc", "category": "media" },
+  { "title": "Secure Proxy", "desc": "Unfiltered web browsing portal", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/proxies", "icon": "fa-shield-halved", "color": "#69f0ae", "category": "tools" },
+  { "title": "Newsletter", "desc": "Dev news, updates & site release notes", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/news-4-9", "icon": "fa-newspaper", "color": "#64ffda", "category": "tools" },
+  { "title": "Support Center", "desc": "Report issues, bugs & game requests", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/supportreport", "icon": "fa-headset", "color": "#448aff", "category": "social" },
+  { "title": "Community Chat", "desc": "Hang out and chat live with peers", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/chat", "icon": "fa-comments", "color": "#18ffff", "category": "social" },
+  { "title": "Rate Us", "desc": "Submit site reviews and ratings", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/rate-us", "icon": "fa-star", "color": "#ffd700", "category": "social" },
+  { "title": "Credits", "desc": "Special thanks to creators & staff", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/credits", "icon": "fa-code-branch", "color": "#ff6e40", "category": "social" },
+  { "title": "Shopping Links", "desc": "Deals, merch & online shop directory", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/shopping-links", "icon": "fa-bag-shopping", "color": "#ff5252", "category": "tools" },
+  { "title": "Miscellaneous", "desc": "Random apps, easter eggs & extras", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/miscellaneous", "icon": "fa-cubes", "color": "#a7ffeb", "category": "tools" }
+]

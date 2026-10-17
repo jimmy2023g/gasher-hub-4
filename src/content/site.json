@@ -1,0 +1,24 @@
+{
+  "password": "JEHUCEO2026",
+
+  "notice": {
+    "title": "System Notice",
+    "message": "We are updating Gasher Games to v5.0 very soon. Stay tuned for new titles and improved speed!"
+  },
+
+  "banner": {
+    "tag": "Featured Update",
+    "title": "v5.0 Next-Gen Portal",
+    "description": "Experience improved game load speeds, dedicated proxy servers, and fresh AI mini-games.",
+    "buttonText": "Explore AI Games",
+    "buttonUrl": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/ai-games"
+  },
+
+  "categories": [
+    { "id": "all", "label": "All Items", "icon": "fa-border-all" },
+    { "id": "games", "label": "Arcade", "icon": "fa-gamepad" },
+    { "id": "media", "label": "Cinema & Audio", "icon": "fa-film" },
+    { "id": "tools", "label": "Utilities", "icon": "fa-wrench" },
+    { "id": "social", "label": "Community", "icon": "fa-users" }
+  ]
+}

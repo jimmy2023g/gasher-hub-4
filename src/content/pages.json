@@ -1,0 +1,36 @@
+{
+  "games": {
+    "layout": "tiles",
+    "title": "Gasher games",
+    "subtitle": "Pick a game and start playing.",
+
+    "promo": {
+      "title": "Gasher game jam",
+      "text": "Come join Gasher game jam",
+      "image": "https://lh3.googleusercontent.com/d/11zDg3elHWNUl9AmRkmP-zjbMzsW8FNGW",
+      "buttonText": "Check it out",
+      "url": "https://sites.google.com/view/gashersgam-jam/home"
+    },
+
+    "tabs": [
+      {
+        "id": "free",
+        "label": "Normal Games",
+        "items": [
+          { "title": "Minecraft (23.3)", "url": "https://jimmy2023g.github.io/ljefneg/", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvN1ts9TJVEEyW7Q_Kyfo1I1LxQlD9aHCSVHYDCeQYKQ&s=10" },
+          { "title": "GTA VI", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/gta6", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXu9ewObZAmVqTRx-foUcqJxwKwjVsJvt3gwd8yhkrg&s" },
+          { "title": "Gasher game jam", "url": "https://sites.google.com/view/gashersgam-jam/home", "image": "https://lh3.googleusercontent.com/d/11zDg3elHWNUl9AmRkmP-zjbMzsW8FNGW" },
+          { "title": "Gasher Art", "url": "https://sites.google.com/4j.lane.edu/gashers-art/gasher-art", "image": "https://lh3.googleusercontent.com/d/14JWGp03UD7E7wA_50rlyIuI1hebpG6wP" },
+          { "title": "Fnaf bag", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/fnafbagee", "image": "https://m.gjcdn.net/game-screenshot/600/39940709-ftmywbs6-v4.webp" },
+          { "title": "Silksong", "url": "https://sites.google.com/4j.lane.edu/gashergamesedu-17/silksong", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTkpTSakw6j31aILObV9UdbFdSCEVl2hefG5sdeaN7UQ&s=10" }
+        ]
+      },
+      {
+        "id": "private",
+        "label": "Test games",
+        "password": "A52014A",
+        "items": []
+      }
+    ]
+  }
+}
